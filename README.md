@@ -13,6 +13,7 @@ This tool allows you to recursively scan folders or individual files, calculate 
 
 - Python 3.8+
 - `requests` library
+- VirusTotal APIKEY
 
 Install requirements:
 
