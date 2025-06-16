@@ -23,12 +23,12 @@ pip install -r requirements.txt
 ## 🧰 How to use
 
 ```bash
-python scanner.py --folder "C:\Users\Guilherme\Documents\myfiles"
+python scanner.py --folder "C:\Users\me\Documents\myfiles"
 
-python scanner.py --file "C:\Users\Guilherme\Downloads\suspect.zip"
+python scanner.py --file "C:\Users\me\Downloads\suspect.zip"
 
 ```
-## Output Example
+## 🚀 Output Example
 
 ```bash
 [SCAN] Scanning: C:\Path\to\file.exe
