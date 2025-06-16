@@ -18,3 +18,23 @@ Install requirements:
 
 ```bash
 pip install -r requirements.txt
+
+```
+## 🧰 How to use
+
+```bash
+python scanner.py --folder "C:\Users\Guilherme\Documents\myfiles"
+
+python scanner.py --file "C:\Users\Guilherme\Downloads\suspect.zip"
+
+```
+## Output Example
+
+```bash
+[SCAN] Scanning: C:\Path\to\file.exe
+File      : C:\Path\to\file.exe
+  MD5     : abcd1234...
+  SHA1    : efgh5678...
+  SHA256  : 1234abcd...
+  VT      : 3 detections / 70 engines
+--------------------------------------------------
