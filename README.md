@@ -1,4 +1,4 @@
-# 🛡️ Detectify
+# 🛡️ SecureHashTool
 
 This tool allows you to recursively scan folders or individual files, calculate their MD5, SHA1, and SHA256 hashes, and check the results against VirusTotal.
 
