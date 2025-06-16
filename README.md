@@ -38,3 +38,8 @@ File      : C:\Path\to\file.exe
   SHA256  : 1234abcd...
   VT      : 3 detections / 70 engines
 --------------------------------------------------
+
+
+```
+
+Guilherme Magno – Cybersecurity & Dev Enthusiast – 2025
